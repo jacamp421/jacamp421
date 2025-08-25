@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm currently diving deep into the **Triple Ten Bootcamp**
 - 🔭 I’m currently working on projects for the **Triple Ten Bootcamp**, sharpening my skills in HTML, CSS, and JavaScript!
 - 🌱 I’m learning more about **full-stack development** and focusing on honing my skils as a web developer.
 - 💬 Ask me about **web development**, **bootcamp projects**, or **JavaScript frameworks**.
-- 📫 How to reach me: [Your contact info or links]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/john-c-62914827b/)
 - ⚡ Fun fact: I can’t start my day without a cup of coffee, but I’m still figuring out how to make the perfect cup!
 
 ## 🛠️ Technologies & Tools
