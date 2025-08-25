@@ -11,7 +11,14 @@ Welcome to my GitHub! I'm currently diving deep into the **Triple Ten Bootcamp**
 
 ## 🛠️ Technologies & Tools
 - Programming Languages: CSS, HTML, JavaScript
+ <img src="https://raw.githubusercontent.com/jacamp421/jacamp421/1bdef3f45025488065e4c5e4ae4397357a1804bc/html.svg" width="auto" height="60">
  <img src="https://github.com/jacamp421/jacamp421/blob/main/html_js_css.png?raw=true" width="auto" height="60">
+ <img src="https://github.com/jacamp421/jacamp421/blob/main/html_js_css.png?raw=true" width="auto" height="60">
+ <img src="https://github.com/jacamp421/jacamp421/blob/main/html_js_css.png?raw=true" width="auto" height="60">
+ <img src="https://github.com/jacamp421/jacamp421/blob/main/html_js_css.png?raw=true" width="auto" height="60">
+ <img src="https://github.com/jacamp421/jacamp421/blob/main/html_js_css.png?raw=true" width="auto" height="60">
+ <img src="https://github.com/jacamp421/jacamp421/blob/main/html_js_css.png?raw=true" width="auto" height="60">
+ 
 - Tools: Git, Visual Studio Code
 
 ## 📈 GitHub Stats
