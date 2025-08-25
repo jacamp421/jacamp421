@@ -17,26 +17,29 @@ Welcome to my GitHub! I'm currently diving deep into the **Triple Ten Bootcamp**
 Here are some of the projects I've worked on during my bootcamp and personal learning journey:
 
 ### 🔸 se_project_library
-**Description:** A brief summary of what the project does or what you learned while building it.  
+This was my first web development project using only HTML and CSS. I created a simple library website and learned the basics of layout and styling. It was also my first time working with Flexbox, which helped me understand responsive design.  
+
 🔗 [Live Demo](https://your-live-demo-link.com)    (Not available at the moment)
 
 💻 [GitHub Repo](https://github.com/jacamp421/se_project_library.git)
 
 ---
 
-### 🔸 se_projct_coffeeshop
-**Description:** A short description of the project, what tech was used, or its purpose.  
+### 🔸 se_project_coffeeshop
+For this project, I built a coffee shop website using only HTML and CSS. I learned how to create and style navigation links and deepened my understanding of the BEM naming convention for writing cleaner, more organized code.
+
 🔗 [Live Demo](https://your-live-demo-link.com)    (Not available at the moment)
 
-💻 [GitHub Repo](https://github.com/yourusername/project-repo)
+💻 [GitHub Repo](https://github.com/jacamp421/se_project_coffeeshop.git)
 
 ---
 
-### 🔸 se_projct_spots
-**Description:** Add any key features, challenges solved, or what you’re proud of in this project.  
+### 🔸 se_project_spots
+Spots was my first project using basic JavaScript alongside HTML and CSS. I learned how to add simple interactivity and also began working with media queries to make the site responsive across different device sizes.
+
 🔗 [Live Demo](https://your-live-demo-link.com)    (Not available at the moment)
 
-💻 [GitHub Repo](https://github.com/yourusername/project-repo)
+💻 [GitHub Repo](https://github.com/jacamp421/se_project_spots.git)
 
 ## 📈 GitHub Stats
 
