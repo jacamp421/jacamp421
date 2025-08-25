@@ -18,21 +18,24 @@ Here are some of the projects I've worked on during my bootcamp and personal lea
 
 ### 🔸 se_project_library
 **Description:** A brief summary of what the project does or what you learned while building it.  
-🔗 [Live Demo](https://your-live-demo-link.com)  (Not available at the moment")
+🔗 [Live Demo](https://your-live-demo-link.com)    (Not available at the moment)
+
 💻 [GitHub Repo](https://github.com/jacamp421/se_project_library.git)
 
 ---
 
 ### 🔸 se_projct_coffeeshop
 **Description:** A short description of the project, what tech was used, or its purpose.  
-🔗 [Live Demo](https://your-live-demo-link.com)  (Not available at the moment")
+🔗 [Live Demo](https://your-live-demo-link.com)    (Not available at the moment)
+
 💻 [GitHub Repo](https://github.com/yourusername/project-repo)
 
 ---
 
 ### 🔸 se_projct_spots
 **Description:** Add any key features, challenges solved, or what you’re proud of in this project.  
-🔗 [Live Demo](https://your-live-demo-link.com)  (Not available at the moment")
+🔗 [Live Demo](https://your-live-demo-link.com)    (Not available at the moment)
+
 💻 [GitHub Repo](https://github.com/yourusername/project-repo)
 
 ## 📈 GitHub Stats
