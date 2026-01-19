@@ -41,6 +41,13 @@ Spots was my first project using basic JavaScript alongside HTML and CSS. I lear
 
 💻 [GitHub Repo](https://github.com/jacamp421/se_project_spots.git)
 
+### 🔸 se_project_react | What to wear?
+What to wear was a project that introduced react to my codebase and taught me how to use and implement API's to provide a backend that allows users to add clothing items to their own local machines. The goal of this project was to make a project that lets users know the weather in their current location and furthermore let them know what would be wise to wear given the weather and their clothing inputs.
+
+🔗 [Live Demo](https://your-live-demo-link.com)    (Not available at the moment)
+
+💻 [GitHub Repo](https://github.com/jacamp421/se_project_react.git)
+
 ## 📈 GitHub Stats
 
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacamp421&show_icons=true&hide_title=true&count_private=true&hide=prs)
